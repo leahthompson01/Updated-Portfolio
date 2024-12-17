@@ -1,23 +1,22 @@
-import AuthenticatedLayout from '@/Layouts/AuthenticatedLayout';
-import GuestLayout from '@/Layouts/GuestLayout';
+import NormalLayout from '@/Layouts/NormalLayout';
 import { Head } from '@inertiajs/react';
 
 export default function Dashboard() {
     return (
-        <GuestLayout>
+        <NormalLayout>
             <Head title="Landing Page" />
 
             <div className="py-12">
                 {/*<div className="mx-auto max-w-7xl sm:px-6 lg:px-8">*/}
-                <div className="mx-auto flex w-full flex-col items-center justify-center gap-12 p-6 text-gray-900 md:flex-row xl:max-w-screen-xl">
+                <div className="mx-auto flex w-full flex-col items-center justify-center gap-12 p-6 text-gray-900 md:flex-row md:gap-20 xl:max-w-screen-xl">
                     <img
-                        className={'max-h-48 rounded-full'}
+                        className={'max-h-72 rounded-full'}
                         alt={
                             'Leah, a woman with brown hair and blue eyes, is wearing headphones and smiling towards the camera.'
                         }
                         src={'LeahTCodes_picture.jpg'}
                     />
-                    <div className={'flex flex-col gap-4'}>
+                    <div className={'flex flex-col gap-8 text-center md:text-start'}>
                         <h1 className={'text-2xl'}>Hi, I'm Leah!</h1>
                         <h2>
                             Full Stack Developer @ Rugged Software | Technical
@@ -31,7 +30,7 @@ export default function Dashboard() {
                             hobbies include reading, cuddling with my dogs,
                             hiking, and streaming.
                         </p>
-                        <div className={'flex justify-around gap-4'}>
+                        <div className={'mt-4 flex justify-around gap-4'}>
                             <a
                                 target="_blank"
                                 href={'https://www.twitch.tv/leahtcodes'}
@@ -117,6 +116,6 @@ export default function Dashboard() {
                 </div>
                 {/*</div>*/}
             </div>
-        </GuestLayout>
+        </NormalLayout>
     );
 }
