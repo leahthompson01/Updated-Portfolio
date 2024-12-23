@@ -24,11 +24,12 @@ export default function Dashboard() {
                         </h2>
                         <p className={''}>
                             I’m a full stack dev experienced with TS, React,
-                            Laravel, python, and APIs. I also love math and
-                            education! Currently looking at roles in developer
-                            relations and advocacy. Outside of programming, my
-                            hobbies include reading, cuddling with my dogs,
-                            hiking, and streaming.
+                            Laravel, Python, and APIs. I also love math and
+                            education! Currently looking for roles in front end
+                            or full stack development, or developer relations
+                            and advocacy. Outside of programming, my hobbies
+                            include reading, cuddling with my dogs, hiking, and
+                            streaming.
                         </p>
                         <div className={'mt-4 flex justify-around gap-4'}>
                             <a
