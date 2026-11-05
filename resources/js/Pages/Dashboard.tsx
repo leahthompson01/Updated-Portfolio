@@ -19,17 +19,19 @@ export default function Dashboard() {
                     <div className={'flex flex-col gap-8 text-center md:text-start'}>
                         <h1 className={'text-2xl'}>Hi, I'm Leah!</h1>
                         <h2>
-                            Full Stack Developer @ Rugged Software | Technical
+                            Developer Relations Engineer @ Laravel | Technical
                             Content Creator
                         </h2>
                         <p className={''}>
-                            I’m a full stack dev experienced with TS, React,
-                            Laravel, Python, and APIs. I also love math and
-                            education! Currently looking for roles in front end
-                            or full stack development, or developer relations
-                            and advocacy. Outside of programming, my hobbies
-                            include reading, cuddling with my dogs, hiking, and
-                            streaming.
+                            I’m a Developer Relations Engineer at Laravel, where
+                            I help developers build with Laravel through
+                            content, demos, and community. Before that, I was a
+                            full stack developer working with TypeScript, React,
+                            Laravel, Python, and APIs. I love math and
+                            education, and I stream and create technical content
+                            about web development. Outside of programming, my
+                            hobbies include reading, cuddling with my dogs,
+                            hiking, and streaming.
                         </p>
                         <div className={'mt-4 flex justify-around gap-4'}>
                             <a
