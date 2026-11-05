@@ -25,9 +25,10 @@ export default function Dashboard() {
                         <p className={''}>
                             I’m a Developer Relations Engineer and Community
                             Manager at Laravel, focused on helping developers
-                            learn, build, and ship with confidence, and on
-                            growing a welcoming community around the
-                            framework. I come from a full stack background
+                            learn, build, and ship with confidence. I manage
+                            our online communities, speak at conferences, and
+                            work to make the Laravel ecosystem a welcoming
+                            place for developers at every level. I come from a full stack background
                             in TypeScript, React, Laravel, Python, and APIs, and
                             I bring a love of math and teaching to every piece
                             of technical content I create. When I’m not
