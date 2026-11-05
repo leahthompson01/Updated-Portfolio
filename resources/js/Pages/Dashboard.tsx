@@ -27,15 +27,11 @@ export default function Dashboard() {
                             Manager at Laravel, focused on helping developers
                             learn, build, and ship with confidence, and on
                             growing a welcoming community around the
-                            framework. Day to day, that means managing our
-                            online communities and speaking at conferences. I
-                            come from a full stack background in TypeScript,
-                            React, Laravel, Python, and APIs, and I’ve always
-                            loved math and education, which is a big part of
-                            why I enjoy creating technical content. When I’m not
-                            writing code or streaming, you’ll find me with a
-                            good book, out on a hiking trail, or cuddled up
-                            with my dogs.
+                            framework. I manage our online communities, speak
+                            at conferences, and bring a full stack background
+                            in TypeScript, React, and Python to everything I
+                            teach. Outside of work, I love math, reading,
+                            hiking, streaming, and cuddling with my dogs.
                         </p>
                         <div className={'mt-4 flex justify-around gap-4'}>
                             <a
