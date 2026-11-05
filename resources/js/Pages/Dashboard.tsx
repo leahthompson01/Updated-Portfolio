@@ -23,15 +23,15 @@ export default function Dashboard() {
                             Content Creator
                         </h2>
                         <p className={''}>
-                            I’m a Developer Relations Engineer at Laravel, where
-                            I help developers build with Laravel through
-                            content, demos, and community. Before that, I was a
-                            full stack developer working with TypeScript, React,
-                            Laravel, Python, and APIs. I love math and
-                            education, and I stream and create technical content
-                            about web development. Outside of programming, my
-                            hobbies include reading, cuddling with my dogs,
-                            hiking, and streaming.
+                            I’m a Developer Relations Engineer at Laravel,
+                            focused on helping developers learn, build, and ship
+                            with confidence. I come from a full stack background
+                            in TypeScript, React, Laravel, Python, and APIs, and
+                            I bring a love of math and teaching to every piece
+                            of technical content I create. When I’m not
+                            writing code or streaming, you’ll find me with a
+                            good book, out on a hiking trail, or cuddled up
+                            with my dogs.
                         </p>
                         <div className={'mt-4 flex justify-around gap-4'}>
                             <a
