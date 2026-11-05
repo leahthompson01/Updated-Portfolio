@@ -28,10 +28,11 @@ export default function Dashboard() {
                             learn, build, and ship with confidence, and on
                             growing a welcoming community around the
                             framework. Day to day, that means managing our
-                            online communities and speaking at conferences. I come from a full stack background
-                            in TypeScript, React, Laravel, Python, and APIs, and
-                            I bring a love of math and teaching to every piece
-                            of technical content I create. When I’m not
+                            online communities and speaking at conferences. I
+                            come from a full stack background in TypeScript,
+                            React, Laravel, Python, and APIs, and I’ve always
+                            loved math and education, which is a big part of
+                            why I enjoy creating technical content. When I’m not
                             writing code or streaming, you’ll find me with a
                             good book, out on a hiking trail, or cuddled up
                             with my dogs.
